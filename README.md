@@ -1,5 +1,5 @@
 # 🦸‍♀️ Path HERO 🦸‍♂️: 위치 검색 및 대중교통 길찾기 서비스
-🔊 Path HERO의 Sever 프로젝트 입니다!<br/>
+🔊 Path HERO의 Sever 프로젝트 입니다!<br/><br/>
 _React와 Spring Boot 공부하면서 진행한 프로젝트라, 아직 많이 단순합니다._ <br/>
 _추가되었으면 하는 기능이나 의견, 언제든지 주세요!_ <br/><br/>
 
