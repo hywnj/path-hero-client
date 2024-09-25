@@ -20,4 +20,4 @@
 
 
 ## 🔗 Path HERO Server Repository 바로가기
-[![Server Repository](https://img.shields.io/badge/Server%20Repo-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/your-repo/backend-path-hero)
+[![Server Repository](https://img.shields.io/badge/Server%20Repo-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/hywnj/path-hero-server)
